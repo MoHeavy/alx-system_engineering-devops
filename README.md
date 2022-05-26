@@ -1,1 +1,1 @@
-We are trying to make executable files
+Readme for shell permissions
