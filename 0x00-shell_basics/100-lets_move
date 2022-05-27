@@ -1,2 +1,2 @@
 #!/bin/bash
-cp A*gh
+mv src/*[A-Z]* /tmp/u
